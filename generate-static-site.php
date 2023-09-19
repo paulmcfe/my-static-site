@@ -3,6 +3,12 @@
 // Put the unique page data into an array of arrays
 $pages = [
     [
+        'filename' => 'index.html',
+        'title'    => 'Home Page',
+        'subtitle' => 'The Home Page Subtitle',
+        'content'  => 'This is the content for the home page.'
+    ],
+    [
         'filename' => 'page1.html',
         'title'    => 'Page 1',
         'subtitle' => 'The Page 1 Subtitle',
